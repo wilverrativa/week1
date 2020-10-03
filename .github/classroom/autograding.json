@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Mario",
+      "setup": "",
+      "run": "make mario",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
